@@ -6,6 +6,11 @@ Restart or shut down DeepSeek Harness from two small buttons in the session head
 
 深色/浅色主题跟随 DSH 的 alias token，不写死颜色。
 
+## 教程
+
+- **[桌面版教程：重启 / 关闭按钮](docs/教程-桌面版.md)** —— 位置图、点击后的完整时间线、更新/卸载、排错表、常见问题
+- 插件详情页（DSH 里点插件名）就是一份精简版说明
+
 ## 安装
 
 这是一个 DSH bundle（`dsh.bundle.patch` + `dsh.client`）。两种装法：
