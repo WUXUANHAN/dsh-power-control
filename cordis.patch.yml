@@ -1,0 +1,6 @@
+# dsh-power-control —— 重启 / 关闭按钮
+# 主行 id 必须与包名一致，插件管理与详情页才能对上号。
+- insert:
+    - id: dsh-power-control
+      name: dsh-power-control
+      config: {}

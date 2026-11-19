@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Power control",
+    "description": "Adds two buttons at the left end of the session header, right beside the sidebar toggle: restart DeepSeek Harness and shut it down. Each click asks for confirmation, then the Host runs a detached script that quits the app (and relaunches it on restart); the page reloads once it reconnects, and a shutdown leaves the app fully closed.",
+    "detail": "docs/DETAIL.md"
+  },
+  "button": {
+    "restart": "Restart DeepSeek Harness",
+    "shutdown": "Shut down DeepSeek Harness"
+  }
+}
