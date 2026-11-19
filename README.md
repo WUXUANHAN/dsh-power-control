@@ -2,6 +2,8 @@
 
 Restart or shut down DeepSeek Harness from two small buttons in the session header — placed immediately to the right of the sidebar toggle.
 
+![两个按钮就在侧边栏分隔线右边、会话标题左边](docs/screenshot.png)
+
 深色/浅色主题跟随 DSH 的 alias token，不写死颜色。
 
 ## 安装
